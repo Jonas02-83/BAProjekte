@@ -17,47 +17,25 @@ Zuerst wird der Zweck des Dokuments vorgestellt. Im Anschluss wird der redaktion
 
 ###	Zweck des Dokuments 
 
-Dieses Projekthandbuch dient als zentrales Dokument für das "Mensch ärgere dich nicht"-Spielentwicklungsprojekt. Es enthält 
-wichtige Informationen, Richtlinien und Verfahren, die für alle Projektbeteiligten relevant sind. Das Projekthandbuch soll 
-sicherstellen, dass das Projekt effizient und effektiv durchgeführt wird und dass alle Teammitglieder über die gleichen 
-Informationen verfügen. Es wird regelmäßig aktualisiert und angepasst, um den Fortschritt des Projekts und etwaige 
-Änderungen widerzuspiegeln.
+Dieses Projekthandbuch dient als zentrale Informationsquelle für das Projekt "Digitales Mensch ärgere dich nicht". Es enthält wichtige Informationen über die Projektplanung, -durchführung und -kontrolle sowie Details zu den Anforderungen, Zielen, Risiken und Meilensteinen. Das Projekthandbuch soll allen Projektbeteiligten einen Überblick über den Projektfortschritt bieten und die Kommunikation und Zusammenarbeit im Team erleichtern.
 
 ###	Redaktion
 
-Das Projekthandbuch wird vom Projektleiter, Frau Schmidt, verwaltet und gepflegt. Sie ist für die Erstellung, Aktualisierung 
-und Verteilung des Dokuments verantwortlich. Alle Teammitglieder sind dazu angehalten, Änderungsvorschläge und -wünsche an 
-den Projektleiter zu richten, damit diese geprüft und gegebenenfalls in das Dokument aufgenommen werden können. 
+Das Projekthandbuch wird von der Projektleiterin, Frau Schmidt, verantwortet und gepflegt. Sie ist für die Erstellung, Aktualisierung und Freigabe des Dokuments zuständig. Änderungen am Projekthandbuch werden in Absprache mit dem Projektteam vorgenommen und von der Projektleiterin freigegeben.
 
 ###	Verteiler
 
-Das Projekthandbuch wird an alle Teammitglieder verteilt und ist für alle Projektbeteiligten jederzeit zugänglich. Bei 
-Änderungen am Dokument wird das gesamte Team über den Discord Channel informiert, um sicherzustellen, dass alle über die 
-aktuellsten Informationen verfügen. Es ist die Verantwortung jedes Teammitglieds, das Projekthandbuch regelmäßig zu 
-überprüfen und sich über Änderungen und Aktualisierungen zu informieren.
+Das Projekthandbuch wird allen Mitgliedern des Projektteams zur Verfügung gestellt. Bei Änderungen am Dokument wird das gesamte Team informiert. Hierfür wird eine entsprechende Nachricht im Discord-Channel des Projekts veröffentlicht. Alle Teammitglieder sind angehalten, das Projekthandbuch regelmäßig auf Aktualisierungen zu überprüfen und sich über den Projektfortschritt und anstehende Aufgaben zu informieren.
 
 ## Projektdefinition
 
 ### Vorgeschichte 
 
-Das Projekt "Mensch ärgere dich nicht"-Spielentwicklung entstand aus dem Wunsch von Herrn Müller, eine digitale Version des 
-beliebten Brettspiels zu entwickeln. Herr Müller kontaktierte Frau Schmidt, die als Projektleiterin ein Team von vier 
-erfahrenen Entwicklern leitet, um seine Idee umzusetzen. In einem ersten Gespräch zwischen Herrn Müller und Frau Schmidt 
-wurden die grundlegenden Anforderungen und Ziele des Projekts besprochen. Auf Basis dieser Informationen erstellte das Team 
-einen detaillierten Projektplan und ein Angebot, das Herrn Müller vorgelegt wurde. Nach seiner Zustimmung begann das Team 
-mit der Umsetzung des Projekts.
+Das Projekt "Digitales Mensch ärgere dich nicht" entstand aus dem Wunsch von Herrn Müller, eine digitale Version des beliebten Brettspiels "Mensch ärgere dich nicht" zu entwickeln. In einem ersten Gespräch mit Frau Schmidt, der Projektleiterin, wurden die grundlegenden Anforderungen und Ziele des Projekts besprochen. Auf Basis dieser Informationen erstellte das Entwicklungsteam einen detaillierten Projektplan und ein Angebot, das Herrn Müller vorgelegt wurde. Nach der Genehmigung des Projektplans und des Angebots begann die Entwicklung des Prototyps.
 
 ###	Inhaltliche Kurzdarstellung
 
-Das Projekt "Mensch ärgere dich nicht"-Spielentwicklung umfasst die Entwicklung einer digitalen Version des klassischen 
-Brettspiels als JavaFX Anwendung. Die Anwendung soll als Server-Client-Applikation realisiert werden, wobei Server und 
-Client über RMI kommunizieren. Das Spiel soll das traditionelle "Mensch ärgere dich nicht"-Spielbrett und die entsprechenden 
-Regeln enthalten. Zusätzlich sollen mehrere Spiele gleichzeitig gespielt werden können. Es wird sowohl einen 
-Einzelspielermodus gegen KI-Gegner als auch einen Mehrspielermodus geben, in dem Spieler online gegen Freunde oder zufällige 
-Gegner antreten können. Das Spiel soll ein klassisches Design mit einer modernen Benutzeroberfläche aufweisen und über 
-Funktionen wie einen Chat und ein Punktesystem verfügen. Das Projekt soll innerhalb von sechs Monaten abgeschlossen werden. 
-Regelmäßige Feedback-Schleifen und Meetings sollen gewährleisten, dass das Projekt erfolgreich und termingerecht umgesetzt 
-wird.
+Das Projekt "Digitales Mensch ärgere dich nicht" umfasst die Entwicklung einer JavaFX Anwendung, die als Server-Client-Applikation mit Hilfe von Java realisiert wird. Die Anwendung soll das klassische "Mensch ärgere dich nicht"-Spielbrett und die entsprechenden Regeln enthalten und es ermöglichen, mehrere Spiele gleichzeitig zu spielen. Zudem sollen Einzel- und Mehrspielermodus unterstützt werden, sodass Spieler gegen KI-Gegner oder online gegen andere Spieler antreten können. Das Design der Anwendung soll klassisch mit einer ansprechenden, modernen Benutzeroberfläche gestaltet sein. Zusätzliche Funktionen wie Chat und Punktesystem sollen die Nutzererfahrung verbessern und die Motivation der Spieler erhöhen. Der Projektzeitraum beträgt sechs Monate, in denen regelmäßige Feedback-Schleifen und Meetings stattfinden sollen, um den Fortschritt zu besprechen und eventuelle Anpassungen vorzunehmen.
 
 ###	Vertragsbasis
 

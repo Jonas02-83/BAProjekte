@@ -11,20 +11,22 @@
 | Nummer | Art | Beschreibung | Termin | Verantwortlich
 | --- | --- | ------------------------ | ------ | ------ |
 | 1 | I | Kunde möchte ein digitales "Mensch ärgere dich nicht"-Spiel entwickeln lassen. | - | - |
-| 2 | I | Spiel soll als JavaFX Anwendung auf dem Computer laufen. | - | - |
-| 3 | I | Spiel soll Server-Client-Applikation mit Java und RMI-Kommunikation sein. | - | - |
-| 4 | I | Klassisches Spielbrett und Regeln sollen implementiert werden. | - | - |
-| 5 | I | Mehrere Spiele gleichzeitig möglich sein. | - | - |
-| 6 | I | Einzelspielermodus gegen KI und Mehrspielermodus online sollen möglich sein. | - | - |
-| 7 | I | Maximale Spieleranzahl soll vier sein. | - | - |
-| 8 | I | Klassisches Design mit moderner Benutzeroberfläche gewünscht. | - | - |
-| 9 | I | Chat-Funktion während des Spiels und Punktesystem gewünscht. | - | - |
-| 10 | I | Einfache, aber ansprechende Animationen. | - | - |
-| 11 | I | Projektzeitraum von sechs Monaten angestrebt. | - | - |
-| 12 | A | Projektplan mit Funktionen und Meilensteinen erstellen. | 2024-06-25 | Frau Schmidt |
-| 13 | A | Prototyp entwickeln. | 2024-07-15 | Frau Schmidt |
-| 14 | I | Regelmäßige Meetings zur Besprechung des Fortschritts. | 01.07.2024 | Frau Schmidt |
-| 15 | I | Projektteam besteht aus 4 Personen: Frau Schmidt (Projektleiterin), Herr Schneider (Anforderungsanalyst und Fachlicher Chefdesigner), Frau Fischer (Systemarchitektin) und Herr Becker (Testmanager). | 15.07.2024 | Herr Schneider, Frau Fischer |
+| 2 | I | Spiel soll als JavaFX-Anwendung auf dem Computer laufen. | - | - |
+| 3 | I | Anwendung soll eine Server-Client-Applikation sein, die mit Java realisiert wird. | - | - |
+| 4 | I | Server und Client sollen über RMI kommunizieren.. | - | - |
+| 5 | I | Spiel soll das klassische Spielbrett und die Regeln enthalten. | - | - |
+| 6 | I | Es sollen mehrere Spiele gleichzeitig möglich sein. | - | - |
+| 7 | I | Spieler sollen gegen den Computer, online gegen andere Spieler oder beides spielen können. | - | - |
+| 8 | I | Maximale Spieleranzahl soll vier sein. | - | - |
+| 9 | I | Design soll klassisch und modern zugleich sein. | - | - |
+| 10 | I | Chat-Funktion während des Spiels gewünscht. | - | - |
+| 11 | I | Punktesystem zur Motivationssteigerung gewünscht.	 | - | - |
+| 12 | I | Animationen sollen einfach, aber ansprechend sein. | - | - |
+| 13 | I | Projektzeitraum soll sechs Monate betragen. | - | - |
+| 14 | A | Projektplan mit Funktionen und Meilensteinen erstellen. | 27.06.2024 | Frau Schmidt |
+| 15 | A | Prototyp entwickeln. | 15.07.2024 | Herr Schneider |
+| 16 | I | Regelmäßige Meetings zur Besprechung des Fortschritts und Anpassungen. | - | Frau Schmidt |
+| 17 | A | Detailliertes Projektplan und Angebot an den Kunden senden. | 24.06.2024 | Frau Schmidt |
 
 **Abkürzungen**  
 I: Information, F: Feststellung, B: Beschluss, A: Auftrag

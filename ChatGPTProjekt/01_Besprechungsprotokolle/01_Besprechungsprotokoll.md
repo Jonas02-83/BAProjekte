@@ -10,22 +10,20 @@
 
 | Nummer | Art | Beschreibung | Termin | Verantwortlich
 | --- | --- | ------------------------ | ------ | ------ |
-| 1 | I | Herr Müller möchte ein digitales "Mensch ärgere dich nicht"-Spiel entwickeln lassen | - | - |
-| 2 | I | Das Spiel soll als JavaFX Anwendung auf dem Computer laufen und eine Server-Client-Applikation sein | - | - |
-| 3 | I | Server und Client sollen über RMI kommunizieren | - | - |
-| 4 | I | Das Spiel soll das klassische Spielbrett und die entsprechenden Regeln enthalten | - | - |
-| 5 | I | Mehrere Spiele sollen gleichzeitig spielbar sein | - | - |
-| 6 | I | Einzelspielermodus gegen KI-Gegner und Mehrspielermodus gegen Freunde oder zufällige Gegner | - | - |
-| 7 | I | Bis zu vier Spieler sollen gleichzeitig teilnehmen können | - | - |
-| 8 | I | Klassisches Design mit moderner Benutzeroberfläche. | - | - |
-| 9 | I | Chat-Funktionalitäten, Punktesystem und einfache Animationen sollen integriert werden. | - | - |
-| 10 | F | Der Projektzeitraum beträgt sechs Monate. | - | - |
-| 11 | F | Regelmäßige Feedback-Schleifen sind notwendig. | - | - |
-| 12 | I | Projektteam: Frau Schmidt (Projektleiterin), Herr Schneider (Anforderungsanalyst und Chefdesigner), Frau Fischer (Systemarchitektin), Herr Becker (Testmanager). | - | - |
-| 13 | A | Erstellung eines detaillierten Projektplans mit allen Funktionen und Meilensteinen. | In Kürze | Frau Schmidt |
-| 14 | A | Beginn der Entwicklung des Prototyps nach Fertigstellung des Projektplans. | Nach Projektplan | Frau Fischer |
-| 15 | I | Regelmäßige Meetings während der gesamten Entwicklung. | - | - |
-| 16 | A | Zukommen lassen eines detaillierten Projektplans und Angebots an Herrn Müller. | In Kürze | Frau Schmidt |
+| 1 | I | Der Kunde möchte ein digitales "Mensch ärgere dich nicht"-Spiel entwickeln lassen. | - | - |
+| 2 | I | Das Spiel soll als JavaFX-Anwendung auf dem Computer laufen und eine Server-Client-Architektur mit Java RMI nutzen. | - | - |
+| 3 | I | Das Spielbrett und die Regeln sollen dem klassischen "Mensch ärgere dich nicht" entsprechen. | - | - |
+| 4 | I | Mehrere Spiele sollen gleichzeitig gespielt werden können. | - | - |
+| 5 | I | Es soll sowohl einen Einzelspielermodus gegen KI-Gegner als auch einen Mehrspielermodus gegen Online-Spieler geben. | - | - |
+| 6 | I | Maximal vier Spieler können teilnehmen. | - | - |
+| 7 | I | Das Design soll klassisch mit einer modernen, ansprechenden Benutzeroberfläche sein. | - | - |
+| 8 | I | Wichtige Funktionen: Chat während des Spiels, Punktesystem und einfache, ansprechende Animationen. | - | - |
+| 9 | I | Der Zeitrahmen für das Projekt beträgt sechs Monate. | - | - |
+| 10 | I | Das Entwicklungsteam besteht aus Frau Schmidt (Projektleiterin), Herr Schneider (Anforderungsanalyst), Frau Fischer (Systemarchitektin), und Herr Becker (Testmanager). | - | - |
+| 11 | F | Regelmäßige Meetings zur Besprechung des Fortschritts und eventueller Anpassungen werden stattfinden. | - | - |
+| 12 | B | Erstellung eines detaillierten Projektplans mit allen Funktionen und Meilensteinen als nächster Schritt. | 30.06.2024 | Frau Schmidt |
+| 13 | B | 	Beginn der Entwicklung des Prototyps nach Erstellung des Projektplans. | 15.07.2024 | Frau Fischer |
+| 14 | I | Ein Angebot wird dem Kunden in Kürze zugeschickt. | 25.06.2024 | Frau Schmidt |
 
 
 **Abkürzungen**  

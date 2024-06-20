@@ -11,17 +11,16 @@
 | Nummer | Art | Beschreibung | Termin | Verantwortlich
 | --- | --- | ------------------------ | ------ | ------ |
 | 1 | I | Entwicklung eines digitalen "Mensch ärgere dich nicht"-Spiels | - | - |
-| 2 | F | Umsetzung als JavaFX Anwendung mit Server-Client-Architektur über RMI | - | - |
-| 3 | F | Einzel- und Mehrspielermodus (gegen KI und Online-Gegner) | - | - |
-| 4 | F | Maximal 4 Spieler | - | - |
-| 5 | F | Klassisches Design mit moderner Benutzeroberfläche | - | - |
-| 6 | F | Chat-Funktion und Punktesystem | - | - |
-| 7 | A | Erstellung eines detaillierten Projektplans | +2 Wochen | Frau Schmidt |
-| 8 | B | Regelmäßige Feedback-Schleifen und zeitnahe Rückmeldungen | - | Alle |
-| 9 | B | Projektzeitraum von 6 Monaten | - | Alle |
-| 10 | I | Teamaufstellung: Frau Schmidt, Herr Schneider, Frau Fischer, Herr Becker | - | - |
-| 11 | A | Entwicklung eines Prototyps nach Projektplanfreigabe | Nach Planfreigabe | Entwicklerteam |
-| 12 | B | Regelmäßige Meetings während der Entwicklung | - | Alle |
+| 2 | B | Umsetzung als JavaFX Anwendung mit Server-Client-Architektur über RMI | - | - |
+| 3 | B | Einzel- und Mehrspielermodus (bis zu 4 Spieler) | - | - |
+| 4 | B | Klassisches Design mit moderner Benutzeroberfläche | - | - |
+| 5 | B | Integration von Chat-Funktionalität und Punktesystem | - | - |
+| 6 | A | Erstellung eines detaillierten Projektplans | 01.04.2023 | Frau Schmidt |
+| 7 | F | Projektzeitraum von 6 Monaten mit regelmäßigen Feedback-Schleifen | - | - |
+| 8 | I | Zusammensetzung des Entwicklungsteams (4 Personen) | - | - |
+| 9 | A | Entwicklung eines Prototyps nach Genehmigung des Projektplans | 15.04.2023 | Entwicklungsteam |
+| 10 | A | Regelmäßige Meetings während der Entwicklung | - | Frau Schmidt |
+| 11 | I | Hintergrundinformation zu Frau Schmidt (Projektleiterin) | - | - |
 
 **Abkürzungen**  
 I: Information, F: Feststellung, B: Beschluss, A: Auftrag

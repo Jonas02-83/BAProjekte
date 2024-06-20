@@ -19,60 +19,47 @@ Zuerst wird der Zweck des Dokuments vorgestellt. Im Anschluss wird der redaktion
 
 ###	Zweck des Dokuments 
 
-Dieses Projekthandbuch dient als zentrale Referenz für alle Aspekte der Entwicklung des digitalen "Mensch ärgere dich 
-nicht"-Spiels. Es stellt sicher, dass alle Teammitglieder und Stakeholder über die Ziele, Anforderungen, Meilensteine und 
-Prozesse des Projekts informiert sind. Das Dokument soll Transparenz schaffen und die Kommunikation zwischen allen 
-Beteiligten erleichtern, indem es klare Richtlinien und Verantwortlichkeiten festlegt. Zudem dient es als Nachschlagewerk 
-für alle technischen und organisatorischen Details des Projekts.
+Dieses Projekthandbuch dient als zentrale Informationsquelle für alle Beteiligten des Projekts "Digitales 'Mensch ärgere 
+dich nicht'-Spiel". Es enthält alle relevanten Informationen zur Planung, Entwicklung und Durchführung des Projekts. Ziel 
+ist es, die Struktur und den Ablauf des Projekts klar zu definieren und sicherzustellen, dass alle Teammitglieder über den 
+aktuellen Stand und die nächsten Schritte informiert sind. Das Handbuch soll als Nachschlagewerk dienen, um die Kommunikation 
+zu erleichtern und die Qualität der Projektergebnisse zu sichern.
 
 ###	Redaktion
 
-Die Verantwortung für die Erstellung, Pflege und Aktualisierung dieses Projekthandbuchs liegt beim Projektleiter. Der Projektleiter ist dafür verantwortlich, dass das Dokument stets aktuell ist und alle relevanten Informationen enthält. Bei Fragen oder Anmerkungen zum Projekthandbuch steht der Projektleiter als Ansprechpartner zur Verfügung.  
+Für die Erstellung und Pflege dieses Projekthandbuchs ist die Projektleiterin, Frau Schmidt, verantwortlich. Sie stellt sicher, 
+dass alle Informationen aktuell und vollständig sind und dass notwendige Änderungen zeitnah eingearbeitet werden.
 
 ###	Verteiler
 
-Über Änderungen am Projekthandbuch wird das gesamte Projektteam informiert. Änderungen werden im Discord-Channel des Projekts bekannt gegeben, um sicherzustellen, dass alle Teammitglieder zeitnah über Neuerungen und Anpassungen informiert sind. Der Verteiler umfasst die folgenden Personen:
+Alle Änderungen und Aktualisierungen des Projekthandbuchs werden dem gesamten Projektteam mitgeteilt. Dies umfasst:
 
 - Frau Schmidt (Projektleiterin)
-- Herr Schneider (Anforderungsanalyst und Chefdesigner)
+- Herr Schneider (Anforderungsanalyst und fachlicher Chefdesigner)
 - Frau Fischer (Systemarchitektin)
 - Herr Becker (Testmanager)
 
-Durch diese Vorgehensweise wird gewährleistet, dass alle relevanten Informationen und Änderungen transparent kommuniziert werden und das Projektteam stets auf dem neuesten Stand ist.
+Die Benachrichtigung erfolgt über eine entsprechende Nachricht im dedizierten Discord-Channel des Projekts. Dies gewährleistet, 
+dass alle Teammitglieder stets über den aktuellen Stand und eventuelle Anpassungen informiert sind.
 
 ## Projektdefinition
 
 ### Vorgeschichte 
 
-Das digitale "Mensch ärgere dich nicht"-Spielprojekt wurde initiiert, als Herr Müller, ein interessierter Kunde, unsere 
-Entwicklerfirma kontaktierte. Herr Müller hatte den Wunsch, das klassische Brettspiel "Mensch ärgere dich nicht" in eine 
-moderne, digitale Form zu bringen. Sein Ziel war es, eine Anwendung zu entwickeln, die das traditionelle Spielerlebnis auf 
-den Computer überträgt und dabei sowohl Einzel- als auch Mehrspielermodi bietet. Nachdem Herr Müller seine Anforderungen und 
-Vorstellungen in einem ersten Gespräch mit Frau Schmidt, der Projektleiterin, erläutert hatte, wurde beschlossen, das 
-Projekt zu starten und die Planung und Umsetzung in Angriff zu nehmen.
-
-Die ursprüngliche Idee entstand aus Herrn Müllers persönlichem Interesse an Brettspielen und seiner Vision, diese auch 
-digital zu erleben und mit anderen Spielern weltweit teilen zu können. Durch das Einbinden moderner Technologien und die 
-Nutzung von JavaFX für die Benutzeroberfläche sowie RMI für die Server-Client-Kommunikation soll ein authentisches und 
-dennoch zeitgemäßes Spielerlebnis geschaffen werden.
+Das Projekt "Digitales 'Mensch ärgere dich nicht'-Spiel" wurde initiiert durch Herrn Müller, der die Idee hatte, das klassische Brettspiel in eine digitale Form zu übertragen. Herr Müller wandte sich an unser Entwicklerteam mit dem Wunsch, ein Spiel zu entwickeln, das sowohl den traditionellen Charme des Brettspiels beibehält als auch moderne, digitale Features integriert. In einem ersten Gespräch wurden die grundlegenden Anforderungen und Ziele des Projekts besprochen. Dabei stellte sich heraus, dass Herr Müller eine JavaFX-Anwendung bevorzugt, die sowohl Einzel- als auch Mehrspielermodi unterstützt. Der Kommunikationsweg zwischen Client und Server soll über Java RMI realisiert werden.
 
 ###	Inhaltliche Kurzdarstellung
 
-Das digitale "Mensch ärgere dich nicht"-Spielprojekt zielt darauf ab, eine JavaFX-basierte Anwendung zu entwickeln, die das 
-klassische Brettspiel auf den Computer bringt. Die Anwendung wird als Server-Client-Applikation realisiert, wobei die 
-Kommunikation über RMI (Remote Method Invocation) erfolgt. Das Spiel wird sowohl Einzelspieler- als auch Mehrspielermodi 
-unterstützen. Im Einzelspielermodus können Spieler gegen KI-Gegner antreten, während im Mehrspielermodus Spiele gegen 
-Freunde oder zufällige Gegner online möglich sind. Bis zu vier Spieler können gleichzeitig an einem Spiel teilnehmen.
+Das Ziel des Projekts ist die Entwicklung eines digitalen "Mensch ärgere dich nicht"-Spiels, das als JavaFX-Anwendung auf Computern läuft. 
+Die Hauptfunktionen des Spiels umfassen:
 
-Das Design des Spiels wird eine klassische Ästhetik mit einer modernen Benutzeroberfläche kombinieren, um die Nostalgie des 
-traditionellen Spiels zu bewahren und gleichzeitig ein ansprechendes digitales Erlebnis zu bieten. Zu den wesentlichen 
-Features gehören eine Chat-Funktion für die Kommunikation während des Spiels, ein Punktesystem zur Steigerung der Motivation 
-und einfache, aber ansprechende Animationen.
+- Server-Client-Architektur: Das Spiel wird als Server-Client-Anwendung implementiert, wobei die Kommunikation über Java RMI erfolgt.
+- Spielmodi: Es wird sowohl einen Einzelspielermodus gegen KI-Gegner als auch einen Mehrspielermodus geben, in dem Spieler online gegen Freunde oder zufällige Gegner antreten können.
+- Teilnehmeranzahl: Bis zu vier Spieler können gleichzeitig an einem Spiel teilnehmen, analog zum klassischen Brettspiel.
+- Design: Das Spiel wird ein klassisches Design mit einer modernen, ansprechenden Benutzeroberfläche haben, um sowohl Nostalgie als auch zeitgemäße Optik zu bieten.
+- Zusatzfunktionen: Zu den zusätzlichen Funktionen gehören ein In-Game-Chat für die Spielerkommunikation, ein Punktesystem zur Erhöhung der Motivation und einfache, ansprechende    Animationen.
 
-Das Projekt wird über einen Zeitraum von sechs Monaten realisiert und umfasst regelmäßige Feedback-Schleifen, um 
-sicherzustellen, dass die Anforderungen des Kunden erfüllt und notwendige Anpassungen zeitnah vorgenommen werden können. Ein 
-detaillierter Projektplan wird erstellt, der alle Funktionen und Meilensteine definiert, um eine strukturierte und 
-zielgerichtete Entwicklung zu gewährleisten.
+Das Projekt soll innerhalb eines Zeitrahmens von sechs Monaten realisiert werden, wobei regelmäßige Feedback-Schleifen und Meetings eingeplant sind, um den Fortschritt zu besprechen und notwendige Anpassungen vorzunehmen.
 
 ###	Vertragsbasis
 

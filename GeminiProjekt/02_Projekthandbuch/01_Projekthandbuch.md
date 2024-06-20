@@ -18,45 +18,49 @@ Zuerst wird der Zweck des Dokuments vorgestellt. Im Anschluss wird der redaktion
 
 ###	Zweck des Dokuments 
 
-Dieses Projekthandbuch dient als zentrale Informationsquelle für alle Projektbeteiligten und beschreibt den Projektverlauf, 
-die Aufgabenverteilung, die verwendeten Werkzeuge und die wichtigsten Prozesse. Es soll dazu beitragen, dass alle 
-Beteiligten auf dem gleichen Stand sind und effektiv zusammenarbeiten können, um das Projekt erfolgreich zu gestalten.
+Dieses Projekthandbuch dient als zentrale Informationsquelle für alle Projektbeteiligten und beschreibt den Rahmen für die Entwicklung eines digitalen "Mensch ärgere dich nicht"-Spiels. Es enthält alle relevanten Informationen, Vereinbarungen und Richtlinien, die für die erfolgreiche Umsetzung des Projekts notwendig sind.
+
+Das Handbuch soll dazu beitragen, die Projektziele effizient und effektiv zu erreichen, indem es Transparenz schafft, die Kommunikation zwischen den Projektbeteiligten fördert und als Leitfaden für die Projektarbeit dient.
 
 ###	Redaktion
 
-Dieses Projekthandbuch wird vom Projektleiter erstellt und gepflegt. 
+Dieses Projekthandbuch wird vom Projektleiter, Frau Schmidt, erstellt und gepflegt 
 
 ###	Verteiler
 
-Dieses Projekthandbuch wird an alle Projektbeteiligten verteilt. Bei Änderungen werden alle Beteiligten über eine Nachricht im Discord-Channel des Projekts informiert.
+Dieses Projekthandbuch wird an alle Projektbeteiligten verteilt. Änderungen am Handbuch werden durch eine Nachricht im Discord-Channel des Projekts kommuniziert.
 
 ## Projektdefinition
 
 ### Vorgeschichte 
 
-Die Idee zu einem digitalen "Mensch ärgere Dich nicht"-Spiel entstand im Rahmen eines Kundengesprächs mit Herrn Müller. Herr 
-Müller ist ein großer Fan des klassischen Brettspiels und wünschte sich eine digitale Version, die er jederzeit und überall 
-spielen kann.
+Die Idee für ein digitales "Mensch ärgere dich nicht"-Spiel entstand im Rahmen eines Kundengesprächs am 20. Juni 2024. Herr Müller, der Kunde, äußerte den Wunsch, ein klassisches Spiel auf moderne Weise neu zu erfinden und es einem breiteren Publikum zugänglich zu machen.
 
-Frau Schmidt, die als Projektleiterin bei der [Name des Unternehmens] tätig ist, sah in diesem Projekt die Möglichkeit, die 
-Expertise des Unternehmens im Bereich der Spieleentwicklung unter Beweis zu stellen. Sie nahm daher Kontakt mit Herrn Müller 
-auf und bot ihm an, das Spiel zu entwickeln.
+Frau Schmidt, die Projektleiterin von [Name der Entwicklerfirma], zeigte sich von der Idee begeistert und sah großes Potenzial in der Entwicklung eines digitalen Spiels, das sowohl die nostalgischen Erinnerungen an das Brettspiel weckt als auch die Vorteile einer modernen digitalen Plattform nutzt.
 
 ###	Inhaltliche Kurzdarstellung
 
-Das Projekt "Digitales Mensch ärgere Dich nicht"-Spiel hat zum Ziel, eine digitale Version des klassischen Brettspiels "Mensch ärgere Dich nicht" zu entwickeln. Das Spiel soll sowohl als Einzelspieler- als auch als Mehrspielermodus verfügbar sein und über eine ansprechende Benutzeroberfläche verfügen.
+Das digitale "Mensch ärgere dich nicht"-Spiel soll die folgenden Kernmerkmale aufweisen:
 
-Die wichtigsten Funktionen des Spiels sind:
+- Plattform: JavaFX-Anwendung für den Computer
+- Spieltyp: Server-Client-Applikation mit RMI-Kommunikation
+- Spielmodus: Klassisches Spielbrett und Regeln
+- Multiplayer: Mehrere Spiele gleichzeitig möglich
+- Gegner: Spiel gegen den Computer, online gegen andere Spieler oder beides
+- Spieleranzahl: Maximal vier Spieler
+- Design: Klassisch und modern zugleich
+- Zusatzfunktionen: Chat-Funktion während des Spiels, Punktesystem, einfache Animationen
 
-- Klassisches Spielbrett und Regeln
-- Möglichkeit, mehrere Spiele gleichzeitig zu spielen
-- Spiel gegen den Computer oder gegen andere Spieler online
-- Chat-Funktion während des Spiels
-- Punktesystem zur Motivationssteigerung
-- Einfache, aber ansprechende Animationen
-- Das Spiel soll als JavaFX Anwendung auf dem Computer laufen und mit Java entwickelt werden. Die Server-Client-Kommunikation soll über RMI erfolgen.
+Zielsetzung:
 
-Der Zeitrahmen für die Entwicklung des Spiels beträgt sechs Monate. Die Fertigstellung des Spiels ist für den 31. Januar 2025 geplant.
+Das Ziel des Projekts ist die Entwicklung eines hochwertigen und unterhaltsamen digitalen "Mensch ärgere dich nicht"-Spiels, das sowohl den Erwartungen des Kunden als auch den Anforderungen des Marktes entspricht. Das Spiel soll sowohl Nostalgiker ansprechen als auch neue Spielergruppen gewinnen.
+
+Erfolgskriterien:
+
+- Pünktliche und budgetkonforme Fertigstellung des Spiels
+- Erfüllung aller funktionalen Anforderungen des Kunden
+- Positive Resonanz der Spieler auf das Spiel
+- Langfristiger Erfolg des Spiels auf dem Markt
 
 ###	Vertragsbasis
 
