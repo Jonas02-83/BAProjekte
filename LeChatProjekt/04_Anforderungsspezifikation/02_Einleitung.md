@@ -1,34 +1,20 @@
 ## Einleitung	
 
-...
-
-Das Projekt wird für die [Universität der Bundeswehr München](www.unibw.de) ...
+Dieses Dokument beschreibt die Anforderungen an das digitale "Mensch ärgere dich nicht"-Spiel, das für unseren Kunden entwickelt werden soll. Es dient als Grundlage für die weitere Planung, Entwicklung und Umsetzung des Projekts.
 
 ### Zweck und Umfang	
 
-> **Inhalt**: Beschreibung der Notwendigkeit des Systems für den Kunden. Kurzbeschreibung der Funktionalität und der 
-> Nachbarsysteme. Welche Stellung hat das System für die gesamtwirtschaftlichen oder strategischen Ziele des 
-> Unternehmens.
-
-> **Hinweis**: hier kann auch der Abschnitt „Inhaltliche Kurzdarstellung“ aus dem Projekthandbuch übernommen werden. 
-> Die Beschreibung ist jetzt aber fachlich, kundenspezifisch und nicht technisch ausgerichtet.
-
-...
+Das digitale "Mensch ärgere dich nicht"-Spiel soll unserem Kunden ermöglichen, das bekannte Brettspiel auf digitalen Endgeräten zu spielen. Das System soll als JavaFX Anwendung realisiert werden und über eine Server-Client-Architektur verfügen. Neben dem klassischen Spielbrett und den Regeln soll das System auch die Möglichkeit bieten, mehrere Spiele gleichzeitig zu spielen und gegen KI-Gegner oder andere Spieler online anzutreten. Das Spiel soll über eine ansprechende, moderne Benutzeroberfläche verfügen und zusätzliche Funktionen wie Chat und Punktesystem bieten.
 
 ### Erläuterungen zu Begriffen und Abkürzungen	
 
-> **Inhalt**: Festlegung der im Dokument verwendeten Fachbegriffe und Abkürzungen.
-
-> **Hinweis**: steht bei uns schon im Projekthandbuch. In einem „echten“ Projekt müssten Sie die Begriffe und 
-> Abkürzungen hier wiederholen, damit der Leser die Anforderungsspezifikation separat versteht.
-
-...
+- JavaFX: Eine Software-Plattform zur Entwicklung von plattformunabhängigen Rich Internet Applications (RIAs).
+- RMI: Remote Method Invocation, eine Technologie zur Kommunikation zwischen verteilten Java-Anwendungen.
+- KI: Künstliche Intelligenz, ein Bereich der Informatik, der sich mit der Entwicklung intelligenter Systeme beschäftigt.
 
 ### Verweise auf sonstige Ressourcen 	
 
-> **Inhalt**: gibt es irgendwelche Dokumente, Schnittstellenspezifikationen, Standards, Gesetze, usw. die beachtet 
-> werden müssen.
-
+Für die Umsetzung des digitalen "Mensch ärgere dich nicht"-Spiels sind die offiziellen Spielregeln relevant. Diese können unter folgendem Link eingesehen werden:
 ...
 
 ### Übersicht 
