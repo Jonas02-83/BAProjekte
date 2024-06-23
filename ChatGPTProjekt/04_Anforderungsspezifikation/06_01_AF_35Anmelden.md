@@ -1,4 +1,4 @@
-### AF Anmelden (Author:in)
+### AF 35Anmelden (Author:in)
 
 Der Anwendungsfall "Anmelden" ermöglicht es einem registrierten Benutzer, sich mit seinen Zugangsdaten beim System anzumelden.
 
@@ -10,7 +10,7 @@ Der Anwendungsfall "Anmelden" ermöglicht es einem registrierten Benutzer, sich 
 
 **Häufigkeit:** Jedes Mal, wenn der Benutzer die Anwendung nutzen möchte.
 
-![Aktivitätsdiagramm Anmelden](06_01_AF_Anmelden.png)
+![Aktivitätsdiagramm Anmelden](06_01_AF_35Anmelden.png)
 
 **Anmeldeformular ausfüllen** Der Benutzer gibt seine E-Mail-Adresse und sein Passwort in das Anmeldeformular ein.
 
