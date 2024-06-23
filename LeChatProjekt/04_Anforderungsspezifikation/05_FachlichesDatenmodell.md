@@ -24,6 +24,41 @@ Einschränkungen:
     Die Position einer Spielfigur auf dem Spielbrett muss gültig sein (d.h. innerhalb der Grenzen des Spielbretts und nicht auf einer Position, die bereits von einer anderen Spielfigur besetzt ist)
 
 
+Hier sind die Einschränkungen und Formate für die Attribute der Entitätstypen im fachlichen Datenmodell:
+
+User:
+
+    ID (Einschränkung: eindeutig, Format: Ganzzahl)
+    Name (Einschränkung: nicht leer, Format: Text)
+    E-Mail-Adresse (Einschränkung: eindeutig, gültiges Format, Format: Text)
+    Passwort (Einschränkung: mindestens 8 Zeichen, mindestens eine Zahl, mindestens ein Großbuchstabe, mindestens ein Sonderzeichen, Format: Text)
+    Punkte (Einschränkung: größer oder gleich 0, Format: Ganzzahl)
+
+Player:
+
+    ID (Einschränkung: eindeutig, Format: Ganzzahl)
+    Farbe (Einschränkung: einer von vier möglichen Werten (rot, grün, blau, gelb), Format: Text)
+
+Spielfigur:
+
+    ID (Einschränkung: eindeutig, Format: Ganzzahl)
+    Position (Einschränkung: gültige Position auf dem Spielbrett, Format: Text oder Koordinaten)
+
+Spiel:
+
+    ID (Einschränkung: eindeutig, Format: Ganzzahl)
+    Name (Einschränkung: nicht leer, Format: Text)
+    Datum (Einschränkung: gültiges Datum, Format: Datum)
+    Uhrzeit (Einschränkung: gültige Uhrzeit, Format: Uhrzeit)
+    Maximale Anzahl von Spielern (Einschränkung: zwischen 1 und 4, Format: Ganzzahl)
+
+Chat-Nachricht:
+
+    ID (Einschränkung: eindeutig, Format: Ganzzahl)
+    Text (Einschränkung: nicht leer, Format: Text)
+    Datum (Einschränkung: gültiges Datum, Format: Datum)
+    Uhrzeit (Einschränkung: gültige Uhrzeit, Format: Uhrzeit)
+
 
 
 
